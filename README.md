@@ -1,4 +1,4 @@
-# teehc
+# TEEHC™
 
 Explorations in ecologically integrated compute infrastructure, environmental efficiency, resilience, and long-horizon technological design.
 
