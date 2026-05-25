@@ -27,10 +27,22 @@ Rather than functioning as a finalized engineering model, the repository serves 
 
 ## Concept Visualizations
 
+### Exterior Node Concepts
+
 <img width="1254" height="1254" alt="ChatGPT Image May 24, 2026, 06_51_57 PM" src="https://github.com/user-attachments/assets/6649563b-3b1f-458a-a873-b165aaa11380" />
+
+Exploratory studies examining environmentally integrated compute infrastructure and adaptive ecological design.
+
 <img width="1536" height="1024" alt="ChatGPT Image May 24, 2026, 06_47_07 PM" src="https://github.com/user-attachments/assets/6a7cd8e1-7343-48e5-9418-20df79cdf6fe" />
+
+Conceptual approaches exploring heat reuse, environmental balancing, and integrated systems infrastructure.
+
 <img width="1536" height="1024" alt="TEEHC 3 Image May 25, 2026, 11_11_23 AM" src="https://github.com/user-attachments/assets/0de54a2b-478e-4d6a-bb42-8dcdd9c16017" />
+
+### Interior Node Concepts
 <img width="1254" height="1254" alt="TEEHC interior 1" src="https://github.com/user-attachments/assets/3e1b608e-ff81-4e8b-b7a1-63df478ce0cd" />
+
+Explorations focused on human-centered infrastructure, operational efficiency, and integrated technological environments.
 
 ### Heat Reuse Concepts
 
