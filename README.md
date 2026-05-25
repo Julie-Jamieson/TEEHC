@@ -1,5 +1,7 @@
 # TEEHC™
 
+TEEHC™ stands for The Ecological Equivalent of Hyperscale Computing, a conceptual exploration of environmentally integrated compute infrastructure and long-horizon systems design.
+
 Explorations in ecologically integrated compute infrastructure, environmental efficiency, resilience, and long-horizon technological design.
 
 TEEHC™ examines how advanced compute infrastructure may be designed with greater environmental integration, efficiency, adaptability, and long-term resilience.
