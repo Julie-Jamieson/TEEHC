@@ -1,4 +1,3 @@
-<img width="1024" height="576" alt="DCN-DW-steelport-subdivision-plan-mainweb" src="https://github.com/user-attachments/assets/448750df-3024-4be0-ac1b-153131d334fb" />
 # 03 Current Development Proposal
 
 ![alt text](PG-3-USE-DW-hhca-slate-stelco-1-mainweb.jpg)
@@ -120,6 +119,8 @@ These include:
 Several named destinations appear in public planning materials, including:
 
 ### The Lagoonscape
+
+<img width="1024" height="576" alt="DCN-DW-steelport-subdivision-plan-mainweb" src="https://github.com/user-attachments/assets/448750df-3024-4be0-ac1b-153131d334fb" />
 
 Described as a regenerated landscape that combines biodiversity objectives with stormwater management functions.
 
