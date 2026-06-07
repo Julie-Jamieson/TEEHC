@@ -1,6 +1,7 @@
 # 03 Current Development Proposal
 
-![alt text](PG-3-USE-DW-hhca-slate-stelco-1-mainweb.jpg)
+<img width="1024" height="576" alt="PG-3-USE-DW-hhca-slate-stelco-1-mainweb" src="https://github.com/user-attachments/assets/b0da048e-604d-4a04-81e9-e96e3795d4de" />
+
 SLATE - An early Slate concept drawing of the former Stelco lands redevelopment project showed public access to the water’s edge.
 
 ## Overview
@@ -34,6 +35,8 @@ The project is being presented as one of the largest industrial redevelopment in
 ---
 
 ## Site Layout
+
+<img width="2560" height="1322" alt="MicrosoftTeams-image-5" src="https://github.com/user-attachments/assets/0b238468-c248-43af-99de-3e2f8feb1005" />
 
 Public subdivision materials indicate that the redevelopment is organized into a series of large development blocks connected by a new internal road network.
 
@@ -119,6 +122,8 @@ These include:
 Several named destinations appear in public planning materials, including:
 
 ### The Lagoonscape
+
+<img width="1024" height="576" alt="DCN-DW-steelport-subdivision-plan-mainweb" src="https://github.com/user-attachments/assets/448750df-3024-4be0-ac1b-153131d334fb" />
 
 Described as a regenerated landscape that combines biodiversity objectives with stormwater management functions.
 
