@@ -36,6 +36,8 @@ The project is being presented as one of the largest industrial redevelopment in
 
 ## Site Layout
 
+<img width="2560" height="1322" alt="MicrosoftTeams-image-5" src="https://github.com/user-attachments/assets/0b238468-c248-43af-99de-3e2f8feb1005" />
+
 Public subdivision materials indicate that the redevelopment is organized into a series of large development blocks connected by a new internal road network.
 
 Reported components include:
