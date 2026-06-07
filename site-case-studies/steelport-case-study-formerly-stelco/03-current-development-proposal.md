@@ -1,6 +1,7 @@
 # 03 Current Development Proposal
 
-![alt text](PG-3-USE-DW-hhca-slate-stelco-1-mainweb.jpg)
+<img width="1024" height="576" alt="PG-3-USE-DW-hhca-slate-stelco-1-mainweb" src="https://github.com/user-attachments/assets/b0da048e-604d-4a04-81e9-e96e3795d4de" />
+
 SLATE - An early Slate concept drawing of the former Stelco lands redevelopment project showed public access to the water’s edge.
 
 ## Overview
