@@ -44,14 +44,14 @@ SLATE - Early conceptual rendering of the proposed waterfront edge. The image il
 
 Reported components include:
 
-Approximately 805.8 acres of total site area
-Approximately 682.7 acres of gross development area
-Approximately 65.5 acres of public infrastructure (public right-of-way)
-Approximately 63.1 acres of open space
-Approximately 17.1 acres of open space / employment lands
-Approximately 24.1 acres of water bodies within the property boundary (Hamilton Harbour)
-Approximately 78.4 acres retained by Stelco Steel Mills
-Approximately 706.8 acres within the proposed subdivision area
+* Approximately 805.8 acres of total site area
+* Approximately 682.7 acres of gross development area
+* Approximately 65.5 acres of public infrastructure (public right-of-way)
+* Approximately 63.1 acres of open space
+* Approximately 17.1 acres of open space / employment lands
+* Approximately 24.1 acres of water bodies within the property boundary (Hamilton Harbour)
+* Approximately 78.4 acres retained by Stelco Steel Mills
+* Approximately 706.8 acres within the proposed subdivision area
 
 The draft subdivision plan establishes a framework of employment lands, transportation corridors, waterfront access areas, utility infrastructure, and open space intended to support future industrial and commercial development.
 
