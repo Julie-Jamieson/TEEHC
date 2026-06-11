@@ -92,28 +92,38 @@
 
 ---
 
+## Harbour and Port Infrastructure
+
+25. Bay Area Restoration Council (BARC).
+    [Website](https://hamiltonharbour.ca/)
+
+26. HOPA Ports.
+    [Website](https://www.hopaports.ca/)
+
+---
+
 ## Energy and Infrastructure
 
-25. City of Hamilton. *Connected Communities Strategy Report*.
+27. City of Hamilton. *Connected Communities Strategy Report*.
     [Source](https://www.hamilton.ca/sites/default/files/2025-11/strategies_Connected-Communities-Full-Report-final.pdf)
 
-26. Hamilton Community Enterprises. *District Energy*.
+28. Hamilton Community Enterprises. *District Energy*.
     [Source](https://hce.net/energy)
 
-27. Hamilton Community Enterprises. *Energy Harvesting Study*.
+29. Hamilton Community Enterprises. *Energy Harvesting Study*.
     [Source](https://hce.net/energy-harvesting-study)
 
-28. Hamilton Community Enterprises.
+30. Hamilton Community Enterprises.
     [Website](https://hce.net/)
 
 ---
 
 ## Education and Workforce
 
-29. McMaster University.
+31. McMaster University.
     [Website](https://www.mcmaster.ca/)
 
-30. Mohawk College.
+32. Mohawk College.
     [Website](https://www.mohawkcollege.ca/)
 
 ---
