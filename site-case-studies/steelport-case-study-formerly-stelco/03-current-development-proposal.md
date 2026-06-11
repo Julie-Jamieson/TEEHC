@@ -18,6 +18,27 @@ At the time of writing, Steelport remains a proposed development. The informatio
 
 ## Development Vision
 
+Urban Design Vision
+
+In February 2025, Slate and its consulting team released Steelport: Hamilton's Evolving Legacy, an Urban Design Report outlining the long-term planning framework for the redevelopment.
+
+The report describes Steelport as a proposed "Hybrid Industrial Place" intended to integrate employment lands, public space, waterfront access, ecological systems, transportation infrastructure, and industrial activity within a single district-scale framework.
+
+The Urban Design Report emphasizes several recurring themes, including:
+
+Hybrid Industrial Places
+Co-existence of industry and public space
+Public waterfront access
+Industrial green streets
+Ecological regeneration
+Active transportation
+Adaptive reuse of industrial heritage
+Long-term economic development
+
+The report presents these elements as planning objectives and design principles intended to guide future development over multiple phases. The document should be understood as a long-term planning framework rather than a commitment that all proposed features will ultimately be implemented.
+
+Source: Steelport: Hamilton's Evolving Legacy – Urban Design Report (2025).
+
 Public project materials describe Steelport as a next-generation industrial district designed to support:
 
 * Advanced manufacturing
@@ -164,7 +185,7 @@ Examples include:
 
 If implemented as described in public materials, the Lagoonscape would combine ecological and infrastructure functions within a single system.
 
-The extent to which these elements are ultimately implemented and measured remains an important question for future study.
+The Urban Design Report indicates that ecological regeneration, green infrastructure, shoreline enhancement, biodiversity, and public access are intended components of the project's planning framework. The extent to which these objectives are ultimately implemented, measured, and maintained remains an important question for future study.
 
 ---
 

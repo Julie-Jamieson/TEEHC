@@ -14,6 +14,28 @@ It influences public expectations, environmental discussions, planning prioritie
 
 Several themes emerged consistently throughout the research.
 
+Observations from the Urban Design Framework
+
+Review of the 2025 Urban Design Report provides additional context for evaluating the Steelport proposal.
+
+The document suggests that Steelport is not being planned solely as a conventional industrial park. Instead, the planning framework proposes a hybrid industrial district that combines employment lands, transportation infrastructure, public access, ecological systems, industrial heritage, and waterfront amenities within a single redevelopment strategy.
+
+Several recurring themes appear throughout the report:
+
+Ecological regeneration
+Public waterfront access
+Industrial heritage preservation
+Adaptive reuse
+Active transportation
+Green infrastructure
+Industrial symbiosis
+Long-term economic development
+
+The presence of these themes does not guarantee implementation. However, they indicate that ecological systems, public realm improvements, and waterfront access were incorporated into the project's planning vision from an early stage rather than appearing solely in marketing materials.
+
+Based on the site's current condition as a former heavy industrial property, it is reasonable to suggest that implementation of even a portion of the proposed open space, shoreline enhancement, habitat, and green infrastructure elements could improve ecological conditions relative to the site's existing state.
+
+Whether the project ultimately achieves broader restorative outcomes will depend on future implementation, measurement, maintenance, and long-term stewardship.
 ---
 
 ## District-Scale Thinking

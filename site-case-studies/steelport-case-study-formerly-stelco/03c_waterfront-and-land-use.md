@@ -50,7 +50,26 @@ These decisions will occur through subsequent planning and development processes
 
 ## Waterfront Access
 
-One of the distinguishing features of the Steelport proposal is the incorporation of public waterfront access areas along portions of Hamilton Harbour.
+The Steelport Loop
+
+A central organizing feature of the Urban Design Report is the proposed Steelport Loop, a public realm framework intended to connect major destinations across the site.
+
+Public materials describe the Steelport Loop as:
+
+Approximately 4 kilometres in length
+Approximately 50 minutes by foot
+Approximately 16 minutes by bicycle
+
+The loop is intended to connect several major public destinations identified in the planning framework, including:
+
+The Waterfront
+The Lagoonscape
+The Pipe Gallery
+The Battery
+
+The Urban Design Report presents the Steelport Loop as a mechanism for reconnecting Hamiltonians with portions of the harbour waterfront while linking together public amenities, active transportation routes, ecological corridors, and industrial districts.
+
+As with other elements of the vision framework, implementation remains subject to future planning, engineering, approvals, partnerships, and investment decisions.
 
 Public planning materials describe:
 
