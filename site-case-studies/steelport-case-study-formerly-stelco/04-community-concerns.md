@@ -178,6 +178,46 @@ In some cases, concerns about AI infrastructure have become a focal point for br
 
 ---
 
+## Delivery and Implementation
+
+Large redevelopment projects often evolve over time.
+
+As a result, some public discussion has focused not only on what Steelport proposes today, but also on how the project may change as planning, approvals, infrastructure investment, and development progress.
+
+Questions raised include:
+
+* Which elements of the vision are commitments and which remain conceptual?
+* How might plans evolve over time?
+* How will changes be communicated to the public?
+* How will waterfront access, public spaces, and environmental features be phased?
+* How will progress be measured against publicly presented plans and objectives?
+
+These questions are common in large multi-phase redevelopment projects where implementation may occur over many years or decades.
+
+Because Steelport is expected to be built in phases, some members of the public have expressed interest in understanding how proposed features may be prioritized, delivered, and maintained over time.
+
+---
+
+## Governance and Accountability
+
+Questions have also been raised regarding governance, oversight, and long-term accountability.
+
+Large infrastructure and redevelopment projects typically involve multiple organizations, regulatory bodies, consultants, landowners, tenants, and government agencies.
+
+Public discussions have included questions such as:
+
+* Which organizations will be responsible for environmental monitoring?
+* How will environmental performance be reported?
+* How will public commitments be tracked over time?
+* What regulatory oversight will apply to future development phases?
+* How will public feedback continue to be incorporated as the project evolves?
+
+These questions reflect a broader interest in understanding how long-term environmental, economic, and community objectives will be managed throughout the life of the project.
+
+For many residents, accountability is closely connected to public confidence, particularly given the site's industrial history and the scale of the proposed redevelopment.
+
+---
+
 ## Trust and Social Licence
 
 Underlying many individual concerns is a broader issue of trust.
@@ -193,6 +233,22 @@ There is interest in economic growth and industrial investment.
 There is also a desire to ensure that future development contributes positively to the harbour, surrounding communities, and future generations.
 
 The long-term success of Steelport may depend not only on engineering and economics, but also on its ability to earn and maintain public confidence.
+
+---
+
+## Historical Context and Future Comparisons
+
+The Steelport site has historically supported large-scale industrial activity, including steelmaking, rail operations, marine shipping, and associated industrial infrastructure.
+
+As a result, some public discussions have also considered how future resource demands and environmental impacts may compare with historical conditions on the site.
+
+Depending on the final mix of tenants, technologies, and infrastructure systems ultimately developed at Steelport, certain impacts such as air emissions, industrial noise, shoreline disturbance, and environmental performance may differ substantially from those associated with historical steelmaking operations.
+
+At the same time, many future uses remain undefined, making direct comparisons between historical and future site performance difficult at this stage.
+
+Questions regarding electricity demand, water consumption, emissions, environmental performance, and ecological outcomes remain important areas for future study as additional information becomes available.
+
+Future evaluation may benefit from examining not only the absolute impacts of redevelopment, but also how those impacts compare with the site's historical industrial condition.
 
 ---
 
