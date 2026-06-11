@@ -14,7 +14,7 @@ The subdivision framework is organized around a series of large employment block
 
 **Figure 3. Land Use and Block Plan**
 
-![alt text](Slate_A0.104_Overall_Proposed_Site_Plan_Block_Plan.png)
+![alt text](images/Slate_A0.104_Overall_Proposed_Site_Plan_Block_Plan.png)
 
 *Source: Draft Plan of Subdivision, Steelport Masterplan.*
 

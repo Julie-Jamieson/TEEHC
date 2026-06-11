@@ -43,7 +43,7 @@ Several large employment blocks remain flexible in their ultimate use, allowing 
 
 **Figure 1. Overall Proposed Site Plan**
 
-![alt text](Slate_A0.100_Overall_Proposed_Plan.png)
+![alt text](images/Slate_A0.100_Overall_Proposed_Plan.png)
 
 *Source: Draft Plan of Subdivision, Steelport Masterplan.*
 

@@ -14,7 +14,7 @@ The Draft Plan of Subdivision includes a phased development strategy that divide
 
 **Figure 2. Proposed Development Phasing**
 
-![alt text](Slate_A0.102_Overall_Phasing_Plan.png)
+![alt text](images/Slate_A0.102_Overall_Phasing_Plan.png)
 
 *Source: Draft Plan of Subdivision, Steelport Masterplan.*
 
