@@ -14,7 +14,9 @@ It influences public expectations, environmental discussions, planning prioritie
 
 Several themes emerged consistently throughout the research.
 
-Observations from the Urban Design Framework
+---
+
+## Observations from the Urban Design Framework
 
 Review of the 2025 Urban Design Report provides additional context for evaluating the Steelport proposal.
 
@@ -22,20 +24,21 @@ The document suggests that Steelport is not being planned solely as a convention
 
 Several recurring themes appear throughout the report:
 
-Ecological regeneration
-Public waterfront access
-Industrial heritage preservation
-Adaptive reuse
-Active transportation
-Green infrastructure
-Industrial symbiosis
-Long-term economic development
+* Ecological regeneration
+* Public waterfront access
+* Industrial heritage preservation
+* Adaptive reuse
+* Active transportation
+* Green infrastructure
+* Industrial symbiosis
+* Long-term economic development
 
 The presence of these themes does not guarantee implementation. However, they indicate that ecological systems, public realm improvements, and waterfront access were incorporated into the project's planning vision from an early stage rather than appearing solely in marketing materials.
 
-Based on the site's current condition as a former heavy industrial property, it is reasonable to suggest that implementation of even a portion of the proposed open space, shoreline enhancement, habitat, and green infrastructure elements could improve ecological conditions relative to the site's existing state.
+Based on the site's current condition as a former heavy industrial property, implementation of proposed open space, shoreline enhancement, habitat, and green infrastructure elements has the potential to improve ecological conditions relative to the site's existing state.
 
 Whether the project ultimately achieves broader restorative outcomes will depend on future implementation, measurement, maintenance, and long-term stewardship.
+
 ---
 
 ## District-Scale Thinking
@@ -49,6 +52,22 @@ This approach reflects a broader shift in infrastructure planning.
 The focus extends beyond individual buildings and toward how multiple systems interact across an entire district.
 
 The scale of the project creates opportunities that would be difficult to achieve on a smaller site.
+
+---
+
+## Integration
+
+Many of the concepts discussed throughout this case study are not independent initiatives.
+
+District energy, transportation infrastructure, waterfront access, ecological systems, industrial lands, utility corridors, and public spaces are being planned as interconnected components of a larger framework.
+
+This emphasis on integration appears repeatedly throughout project materials and planning documents.
+
+Rather than treating infrastructure, environment, transportation, and public access as separate issues, the proposal frequently presents them as interacting parts of a larger district-scale system.
+
+Whether these systems ultimately function as an integrated whole will depend on future implementation, coordination, and long-term management.
+
+The emphasis on integration appears to be one of the defining characteristics of the Steelport vision.
 
 ---
 
@@ -168,6 +187,8 @@ Energy transition.
 
 Infrastructure modernization.
 
+Systems integration.
+
 Community expectations.
 
 Environmental stewardship.
@@ -177,3 +198,4 @@ Steelport does not exist independently of those forces.
 It exists within them.
 
 The project's long-term significance may ultimately be shaped by how those relationships evolve over the decades ahead.
+
