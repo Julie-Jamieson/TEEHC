@@ -36,19 +36,24 @@ The project is being presented as one of the largest industrial redevelopment in
 
 ## Site Layout
 
+Since the release of the original concept renderings, additional planning documents have become publicly available, including draft subdivision plans that provide greater detail regarding site organization, phasing, transportation infrastructure, and land use allocations.
+
 <img width="2560" height="1322" alt="MicrosoftTeams-image-5" src="https://github.com/user-attachments/assets/0b238468-c248-43af-99de-3e2f8feb1005" />
 
-Public subdivision materials indicate that the redevelopment is organized into a series of large development blocks connected by a new internal road network.
+SLATE - Early conceptual rendering of the proposed waterfront edge. The image illustrates design aspirations for public access, open space, industrial development, and port activity, and should not be interpreted as a final site plan.
 
 Reported components include:
 
-* Approximately 683 acres of gross development area
-* Approximately 62 acres of public right-of-way
-* Approximately 91 acres of open space and amenity areas
-* Approximately 23 acres of water bodies
-* Approximately 78 acres retained by Stelco Steel Mills
+Approximately 805.8 acres of total site area
+Approximately 682.7 acres of gross development area
+Approximately 65.5 acres of public infrastructure (public right-of-way)
+Approximately 63.1 acres of open space
+Approximately 17.1 acres of open space / employment lands
+Approximately 24.1 acres of water bodies within the property boundary (Hamilton Harbour)
+Approximately 78.4 acres retained by Stelco Steel Mills
+Approximately 706.8 acres within the proposed subdivision area
 
-The site plan introduces new transportation corridors, utility corridors, public spaces, and development parcels intended to support future industrial and commercial uses.
+The draft subdivision plan establishes a framework of employment lands, transportation corridors, waterfront access areas, utility infrastructure, and open space intended to support future industrial and commercial development.
 
 Because the project is expected to be built over many years, the final configuration may evolve as approvals and construction progress.
 
@@ -125,7 +130,7 @@ Several named destinations appear in public planning materials, including:
 
 <img width="1024" height="576" alt="DCN-DW-steelport-subdivision-plan-mainweb" src="https://github.com/user-attachments/assets/448750df-3024-4be0-ac1b-153131d334fb" />
 
-Described as a regenerated landscape that combines biodiversity objectives with stormwater management functions. Public descriptions characterize the Lagoonscape as a regenerated landscape intended to combine biodiversity objectives with stormwater management functions.
+Public descriptions characterize the Lagoonscape as a regenerated landscape intended to combine biodiversity objectives with stormwater management functions.
 
 ### The Pipe Gallery
 
