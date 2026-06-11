@@ -42,7 +42,7 @@ Public subdivision materials indicate that the redevelopment is organized into a
 
 Reported components include:
 
-* Approximately 684 acres of gross development area
+* Approximately 683 acres of gross development area
 * Approximately 62 acres of public right-of-way
 * Approximately 91 acres of open space and amenity areas
 * Approximately 23 acres of water bodies
@@ -68,7 +68,7 @@ Public materials identify:
 * Proximity to Toronto Pearson International Airport
 * Access to the United States border
 
-The draft plans include approximately 10 kilometres of new internal roads intended to support future industrial and commercial development.
+The draft subdivision plans include an extensive new internal road network connecting the development blocks to Burlington Street and the surrounding transportation system. Public materials have referenced approximately 10 kilometres of new internal roads, although final road lengths may evolve as detailed engineering progresses.
 
 The site's transportation assets are frequently cited as one of its primary competitive advantages.
 
@@ -76,7 +76,7 @@ The site's transportation assets are frequently cited as one of its primary comp
 
 ## Energy Infrastructure
 
-One of the most distinctive aspects of the Steelport proposal is its emphasis on district-scale energy planning.
+One of the more distinctive publicly discussed aspects of the Steelport proposal is its emphasis on district-scale energy planning.
 
 Publicly discussed elements include:
 
@@ -108,7 +108,7 @@ At present, public materials indicate that these systems are being explored and 
 
 Steelport's plans extend beyond industrial development.
 
-Public materials describe several waterfront and public realm components intended to reconnect portions of Hamilton Harbour with the surrounding community.
+Public materials and draft subdivision plans describe several waterfront and public realm components intended to reconnect portions of Hamilton Harbour with the surrounding community.
 
 These include:
 
@@ -125,7 +125,7 @@ Several named destinations appear in public planning materials, including:
 
 <img width="1024" height="576" alt="DCN-DW-steelport-subdivision-plan-mainweb" src="https://github.com/user-attachments/assets/448750df-3024-4be0-ac1b-153131d334fb" />
 
-Described as a regenerated landscape that combines biodiversity objectives with stormwater management functions.
+Described as a regenerated landscape that combines biodiversity objectives with stormwater management functions. Public descriptions characterize the Lagoonscape as a regenerated landscape intended to combine biodiversity objectives with stormwater management functions.
 
 ### The Pipe Gallery
 
@@ -157,7 +157,7 @@ Examples include:
 * District energy planning
 * Waste heat utilization studies
 
-The Lagoonscape is particularly notable because it combines ecological and infrastructure functions within a single system.
+If implemented as described in public materials, the Lagoonscape would combine ecological and infrastructure functions within a single system.
 
 The extent to which these elements are ultimately implemented and measured remains an important question for future study.
 
