@@ -2,6 +2,8 @@
 
 ## The Ecological Equivalent of Hyperscale Computing
 
+![alt text](<TEEHC node map.jpg>)
+
 ## The Problem
 
 Artificial intelligence infrastructure is expanding rapidly. The facilities required to power modern AI are becoming critical to healthcare, scientific discovery, education, industry, and communication.
