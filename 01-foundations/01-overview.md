@@ -12,7 +12,7 @@ Most of this infrastructure is being built the same way: massive single-site fac
 
 The results are visible. Aquifer drawdowns in Arizona. Noise complaints from residential neighbors in Virginia. Grid instability in Texas. Communities that host these facilities often bear the costs without sharing proportionally in the benefits.
 
-Canada is behind on AI infrastructure buildout. That lag is usually framed as a disadvantage.
+Canada is behind on AI infrastructure deployment. That lag is usually framed as a disadvantage.
 
 It is actually an opportunity.
 
@@ -46,7 +46,7 @@ A node in northern Ontario uses ambient winter air for cooling, eliminating evap
 
 Each facility is scaled to its community. Significant enough to contribute meaningfully to the local economy. Small enough to function as a neighbor rather than an enclave.
 
-Together, the nodes form a resilient compute fabric. Workloads route across the network based on capacity, efficiency, carbon intensity, or latency requirements. Redundancy is geographic, not concentrated. No single point of failure.
+Together, the nodes form a resilient computing network. Workloads route across the network based on capacity, efficiency, carbon intensity, or latency requirements. Redundancy is geographic, not concentrated. No single point of failure.
 
 From an operational standpoint, customers interact with TEEHC as a single entity. From a community standpoint, each node is accountable to the place that hosts it.
 
@@ -117,7 +117,7 @@ Communities can track their local facility's performance.
 
 Investors, policymakers, and researchers can compare nodes and evaluate the network as a whole.
 
-This is how "we'll be sustainable" becomes something measurable.
+This is how stewardship moves beyond aspiration and becomes something measurable.
 
 ---
 
