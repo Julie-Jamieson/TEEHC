@@ -1,3 +1,5 @@
+![alt text](<SPI Logo on white small.jpg>)
+
 # Stewardship Performance Index (SPI)
 
 *A framework for long-term stewardship, independent reporting, and continuous improvement.*
