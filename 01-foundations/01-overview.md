@@ -2,7 +2,7 @@
 
 ## The Ecological Equivalent of Hyperscale Computing
 
-![alt text](<TEEHC node map.jpg>)
+![alt text](<TEEHC node map with Logo.jpg>)
 
 ## The Problem
 
