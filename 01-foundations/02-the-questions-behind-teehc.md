@@ -2,66 +2,82 @@
 
 TEEHC began with a question.
 
-**Can we build the next generation of compute infrastructure in a way that leaves the surrounding ecosystem stronger than before?**
+> **Can we build the next generation of compute infrastructure in a way that leaves the surrounding ecosystem stronger than before?**
 
-Artificial intelligence is growing quickly. The infrastructure required to support it is growing just as quickly.
+Artificial intelligence is becoming one of the defining technologies of our time. The infrastructure that supports it will shape research, healthcare, education, manufacturing, communications, scientific discovery, and countless aspects of everyday life.
 
-The facilities that power modern computing are becoming increasingly important to research, communication, education, healthcare, industry, and scientific discovery. The decisions made today may influence how these systems interact with our communities and landscapes for decades to come.
+Those facilities will also shape the places that host them.
 
-That creates an opportunity.
+The decisions we make today about water, energy, land use, and community integration may influence those communities for decades.
 
-An opportunity to ask better questions about how future infrastructure is designed.
+That presents more than a technical challenge.
 
-Can computing infrastructure become more deeply integrated with the environments that support it?
+It presents an opportunity.
 
-Can energy be used more efficiently?
+An opportunity to rethink the relationship between advanced infrastructure and the environments that sustain it.
 
-Can excess heat become a useful resource?
+Instead of asking only how we build larger or faster facilities, TEEHC asks a different set of questions.
 
-Can water be managed more thoughtfully?
+Can computing infrastructure become more deeply integrated with the natural systems around it?
 
-Can infrastructure contribute to resilience, restoration, and long-term value creation?
+Can excess heat become a resource instead of waste?
 
-These are the questions that led to TEEHC.
+Can water be managed as something to protect rather than simply consume?
+
+Can infrastructure strengthen ecological systems instead of merely minimizing harm?
+
+Can communities share more fully in the long-term benefits of the infrastructure they host?
+
+Can resilience become part of the design from the very beginning?
+
+These questions do not assume a single answer.
+
+They invite exploration.
+
+They challenge long-held assumptions about what computing infrastructure can become.
 
 ## Areas of Exploration
 
 ### Ecology
 
-How can future compute infrastructure work alongside natural systems?
+How can future compute infrastructure work alongside natural systems rather than displacing them?
 
-Can biodiversity, habitat restoration, and environmental stewardship become part of infrastructure design?
+Can biodiversity, habitat restoration, and environmental stewardship become integral components of infrastructure design?
 
 ### Water
 
 How can water be captured, reused, and managed responsibly?
 
-What opportunities exist to reduce waste and create additional environmental value?
+What opportunities exist to reduce municipal demand while improving long-term environmental resilience?
 
 ### Energy
 
-How can computing infrastructure become more efficient?
+How can computing infrastructure become significantly more efficient?
 
-What opportunities exist to recover and repurpose heat that would otherwise be lost?
+What opportunities exist to recover and repurpose heat that would otherwise be wasted?
 
 ### Communities
 
-How can advanced infrastructure contribute to the places where it operates?
+How can advanced infrastructure become a lasting contributor to the places where it operates?
 
-What opportunities exist for research, education, innovation, and local economic development?
+What opportunities exist for education, research, skilled employment, innovation, and local economic development?
 
 ### Long-Term Resilience
 
-What does compute infrastructure look like when it is designed to serve future generations as well as present needs?
+What does compute infrastructure look like when it is designed for future generations as well as present needs?
 
-What principles create systems that remain valuable, adaptable, and resilient over time?
+What principles create systems that remain adaptable, resilient, and valuable over decades of technological change?
 
 ## Looking Forward
 
-TEEHC is an ongoing exploration of environmentally integrated compute infrastructure, systems resilience, environmental efficiency, and long-horizon technological design.
+TEEHC is an ongoing exploration of environmentally integrated compute infrastructure, systems resilience, environmental stewardship, and long-horizon technological design.
 
-The goal is simple:
+It is built on a simple belief:
 
-To explore what becomes possible when stewardship is considered alongside performance, reliability, efficiency, and scale.
+Infrastructure should be evaluated not only by the intelligence it enables, but by the legacy it leaves behind.
 
-The questions are worth exploring.
+The goal is not to suggest that every answer has already been found.
+
+The goal is to ask better questions before today's decisions become tomorrow's defaults.
+
+Those questions are worth exploring.
