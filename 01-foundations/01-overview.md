@@ -50,6 +50,8 @@ Together, the nodes form a resilient computing network. Workloads route across t
 
 From an operational standpoint, customers interact with TEEHC as a single entity. From a community standpoint, each node is accountable to the place that hosts it.
 
+TEEHC is intended as an open framework rather than a closed ownership model. Nodes may be owned and operated by municipalities, utilities, universities, Indigenous organizations, private companies, or other qualified partners. Some facilities may participate as part of a federated TEEHC network, while others may choose to adopt stewardship principles and the Stewardship Performance Index (SPI) independently.
+
 ---
 
 # Design Principles
