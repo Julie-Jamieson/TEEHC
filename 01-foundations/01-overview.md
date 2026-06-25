@@ -80,6 +80,8 @@ Infrastructure designed for future generations, not just present needs. Adaptabl
 
 Concepts are easy to claim. Performance is harder to verify.
 
+![alt text](<SPI Graphic2.jpg>)
+
 TEEHC proposes the **Stewardship Performance Index (SPI)** as a public accountability framework for every node in the network.
 
 SPI measures stewardship, not compute.
