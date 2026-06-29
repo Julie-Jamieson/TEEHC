@@ -164,5 +164,16 @@ SPI provides a framework for carrying stewardship commitments from proposal, thr
 
 ---
 
+> **Project Update**
+>
+> I have made the decision to develop the **Stewardship Performance Index (SPI)** as a standalone project with its own repository.
+>
+> While SPI was originally introduced as the stewardship framework supporting TEEHC, it is intended to provide a standardized methodology for measuring, reporting, and improving long-term stewardship across infrastructure and industry.
+>
+> TEEHC remains focused on the design and operation of ecologically integrated AI infrastructure. The latest development of SPI can now be found in the dedicated repository:
+>
+> **https://github.com/Julie-Jamieson/SPI---Stewardship-Performance-Index**
+
+
 **Version:** Draft 1.0
 **Status:** Conceptual Framework
