@@ -12,12 +12,9 @@ Communities are increasingly being asked to host large infrastructure projects t
 
 During the approval process, developers present technical studies, municipalities review applications, and residents ask questions about water use, energy demand, environmental impacts, noise, traffic, and community benefit. These discussions are important, but they often focus on what a project intends to do rather than how it will perform over the long term.
 
-The Stewardship Performance Index (SPI) was developed to explore a simple idea. Stewardship should begin before construction starts and continue throughout the life of a project. Rather than treating stewardship as a one-time requirement, SPI provides a framework for discussing expectations before approval, measuring performance during operation, and encouraging continuous improvement over time.
+The Stewardship Performance Index (SPI) was developed to explore a simple idea. Stewardship extends throughout the entire lifecycle of a project, from planning and approval through construction, operation, and eventual renewal or decommissioning. Rather than treating stewardship as a one-time requirement, SPI provides a framework for establishing expectations before approval, evaluating performance during operation, and encouraging continuous improvement over time.
 
-At the centre of the framework is a straightforward question.
-
-> **Is this infrastructure leaving its host community better than it found it?**
-
+SPI is founded on a simple principle: stewardship should be measurable.
 ---
 
 # Why SPI Exists
